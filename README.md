@@ -1,10 +1,10 @@
 # headfirst-java-practice
 
-Personal practice archive for Mihir Modi, second-year Computer Engineering student, working through *Head First Java*, 3rd Edition (Sierra, Bates, Gee, 2022). Contains exercise solutions, standalone programs, and study notes created while reading the book.
+Personal java practice archive of mine a Computer Engineering student, working through *Head First Java*, 3rd Edition (Sierra, Bates, Gee, 2022). Contains exercise solutions, standalone programs, and study notes created while reading the book.
 
 ## What It Is Not
 
-This repository is not a tutorial, course material, or reference guide. It does not accept contributions, issues, or pull requests. It is a single-contributor personal archive.
+This repository is not a tutorial, course material, or reference guide. It does not accept contributions, issues, or pull requests. It is a single-contributor/personal archive.
 
 ## Organization
 
